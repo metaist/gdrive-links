@@ -1,4 +1,5 @@
 icons/*.svg
+.clasp.json
 
 # general
 _ignore*
